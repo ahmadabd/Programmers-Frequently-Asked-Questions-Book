@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [معرفی](README.md)
 * [برنامه نویسی و دلایل یادگیری آن](programming_imoprtance.md)
