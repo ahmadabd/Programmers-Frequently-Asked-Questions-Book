@@ -11,9 +11,9 @@
 
 ## آدرس پروژه در github
 
-- پروژه در [github](https://github.com/ahmadabd/Programmers-Frequently-Asked-Questions-Book)
+## پروژه در [github](https://github.com/ahmadabd/Programmers-Frequently-Asked-Questions-Book)
 
-  
+
 
 ------
 
@@ -23,5 +23,6 @@
 
 ### دسترسی به من
 
-- من در [گیت هاب](https://github.com/ahmadabd)
-- من در [لینکداین](https://www.linkedin.com/in/ahmad-abdollahzade-848421147/)
+من در [گیت هاب](https://github.com/ahmadabd)
+
+من در [لینکداین](https://www.linkedin.com/in/ahmad-abdollahzade-848421147/)

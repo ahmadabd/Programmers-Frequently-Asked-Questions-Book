@@ -144,13 +144,19 @@
 
 ۸. خواندن انواع روش‌های **[مدیریت پروژه](https://en.wikipedia.org/wiki/Project_management)** مانند:
 
-1. Agile
-2. Scrum
-3. Kanban
-4. Lean
-5. Waterfall
-6. Six Sigma
-7. PMI/PMBOK
+۱. Agile
+
+۲. Scrum
+
+۳. Kanban
+
+۴. Lean
+
+۵. Waterfall
+
+۶. Six Sigma
+
+۷. PMI/PMBOK
 
 
 
