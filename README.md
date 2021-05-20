@@ -9,9 +9,9 @@
 
 ## 
 
-## آدرس پروژه در [github](https://github.com/ahmadabd/Programmers-Frequently-Asked-Questions-Book)
+## آدرس پروژه در [GitHub](https://github.com/ahmadabd/Programmers-Frequently-Asked-Questions-Book)
 
-## پروژه در [book](https://ahmadabd.gitbook.io/programmers-frequently-asked-questions-book/)
+## پروژه در [GitBook](https://ahmadabd.gitbook.io/programmers-frequently-asked-questions-book/)
 
 
 
